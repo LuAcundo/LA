@@ -1,0 +1,177 @@
+/****************************************/
+/*******************************/
+/****************body*/
+#root {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+body{
+    overflow-x: hidden;
+ }
+/*******************************/
+/********navbarContainer*/
+.navbarContainer {
+    position: absolute;
+}
+/*******************************/
+/*******************main*/
+.homeTitle {
+    padding-top: 615px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    position: absolute;
+    z-index: 2;
+    color: white; 
+}
+
+.textBlock1-text {
+    font-size: 4vw;
+    line-height: 1;
+    margin: 0 auto;
+    max-width: 142.96875vw;
+    text-align: center;
+    padding: 200px;
+}
+.imageBlock-Image {
+    height: 474px;
+    width: 745px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.imageQuote-Container {
+    height: 1vw;
+    width: 1vw;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.featuredrojects-Container {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+/*******************************/
+/*******footerContainer*/
+.footerContainer {
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********
+.navbar-brand { 
+    font-size: 100%;
+    color: white;
+}
+
+.Home_Title {
+    LISTO padding-top: 615px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    position: absolute;
+    z-index: 2;
+    color: white; LISTO
+}
+/****************************************/
+/*********section class 1: Home-Container*/
+/*
+.video {
+    
+}
+
+
+
+
+
+/****************************************/
+/*********section class 2: TextBlock1-Container*/
+/*
+.TextBlock1-text {
+    
+    LISTO font-size: 4vw;
+    line-height: 1;
+    margin: 0 auto;
+    max-width: 142.96875vw;
+    text-align: center;
+    padding: 200px; LISTO
+}
+
+.ImageBlock-Image {
+    min-height: 1vh;
+}
+.img {
+    height: 0.1px;
+    width: 0.1px;
+}
+.ImageBlock-Container .ImageBlock-Image {
+    display: flex;
+    justify-content: center;
+}
+/****************************************/
+/*********section class 3: TextBlock2-Containerr*/
+/*
+.TextBlock2-Image {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    width: 945px;
+    height: 474px;
+    margin-left: 20%;
+    margin-right: 50%;
+}
+
+/*
+.Footer-Container .div {
+    width: 45px;
+    height: 74px;
+    
+}
+.Footer-Container-Content {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #000;
+
+
+.Image-Quote {
+    
+}    
+/*
+}
+.container-text-center {
+    background-color: #000;
+    color: white;
+} 
